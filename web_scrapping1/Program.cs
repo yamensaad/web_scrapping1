@@ -10,7 +10,9 @@ namespace web_scrapping1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("enter number of cars :");
+            int number = int.Parse(Console.ReadLine());
+            
         }
     }
 }
